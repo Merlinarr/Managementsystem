@@ -1,4 +1,4 @@
-(function() {
+$(function() {
 
     // click to register account
     $("#link_reg").on("click", function() {
@@ -65,4 +65,4 @@
             }
         })
     })
-})();
+});
